@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380363299805",
+    "firebase_url": "https://fish-blog-app.firebaseio.com",
+    "project_id": "fish-blog-app",
+    "storage_bucket": "fish-blog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380363299805:android:354b681d0afee0594f3434",
+        "android_client_info": {
+          "package_name": "com.mevan.fishbloggerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380363299805-g26rcskektkaqam6ec74hbf23i7n0teg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mevan.fishbloggerapp",
+            "certificate_hash": "aa16d0b77b54f1550e3767a04fdf6416fc6d40bf"
+          }
+        },
+        {
+          "client_id": "380363299805-iup6n725na7ufpbodl60gktp8cnef5dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUFTctLel-wxzS0na52ijGsIgpgHNeX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380363299805-iup6n725na7ufpbodl60gktp8cnef5dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
